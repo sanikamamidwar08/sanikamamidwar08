@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff4da6, #ff9ad6); -webkit-background-clip: text; color: transparent; text-shadow: 0px 0px 10px #ff4da6;">
-    Sanikaa Mamidwar
+    Sanika Mamidwar
   </span>
 </h1>
 
@@ -13,7 +13,7 @@
 ---
 
 # 🚀 About Me
-I am **Sanikaa Mamidwar**, a passionate **Full Stack Python Developer** focused on clean UI,  
+I am **Sanika Mamidwar**, a passionate **Full Stack Python Developer** focused on clean UI,  
 responsive frontend, and strong backend development.
 
 - 🎓 BBA-CA Graduate | Currently pursuing **PGDM**
@@ -26,6 +26,18 @@ responsive frontend, and strong backend development.
 # 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,python,flask,django,firebase,mysql,github,vscode&theme=light" />
+</p>
+
+---
+
+# 🎨 Fun Skills & Hobbies
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding-💻-ff4da6?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Design-🎨-ff69b4?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/React-⚛️-61dafb?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-⏭️-000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Photography-📸-ff9ad6?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Music-🎵-ff69b4?style=for-the-badge&logo=spotify&logoColor=white">
 </p>
 
 ---
@@ -63,7 +75,7 @@ responsive frontend, and strong backend development.
 
 # 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/sanikamamidwar/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff4da6&link=https://www.linkedin.com/in/sanikamamidwar/"></a>
+<a href="https://www.linkedin.com/in/sanikamamidwar/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff4da6"></a>
 <a href="https://github.com/sanikamamidwar08"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=555"></a>
 <a href="https://www.instagram.com/sanikamamidwar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff69b4"></a>
 </p>
