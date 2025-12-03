@@ -1,7 +1,5 @@
 <!-- Elegant Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/VuH3e6K.gif" width="100%" />
-</p>
+
 
 <h1 align="center">
   <span style="color:#ff4da6; text-shadow: 0px 0px 10px #ff4da6;">
@@ -33,12 +31,12 @@
 # 💖 **Featured Projects**
 | ⭐ Project | 💬 Description | 🛠 Tech Stack |
 |----------|----------------|---------------|
-| 🛒 **E-commerce Website** | Product display, cart flow | HTML, CSS, JS |
-| 🍕 **Food Place Website** | Menu + Gallery UI | HTML, CSS, JS |
+| 🛒 **E-commerce Website** | Product display, cart flow | HTML, CSS, JS, ReactJs, Firebase |
+| 🍕 **Food Place Website** | Menu + Gallery UI | HTML, CSS,  |
 | ✨ **Next.js Portfolio** | Animated pages, clean UI | Next.js, Tailwind |
-| 📝 **Job Portal** | Job posting + login | JS, HTML, CSS |
+| 📝 **Job Portal** | Job posting + login | JS, HTML, CSS, ReactJs |
 | 📚 **Book Management System** | Full CRUD | Python, Flask |
-| 🎓 **Online Education System** | Courses + admin | Python, Firebase |
+| 🎓 **Online Education System** | Courses + admin | Python, Django, ReactJs |
 
 ---
 
@@ -72,5 +70,5 @@
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 <p align="center">
-  <img src="https://i.imgur.com/kd0Qx0b.gif" width="120" />
+ 
 </p>
