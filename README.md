@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/7Z6C1fF.gif" width="100%" />
+
 
 <h1 align="center">✨ Sanikaa Mamidwar ✨</h1>
 
